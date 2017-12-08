@@ -1,0 +1,10 @@
+C:\Users\kasperok\Desktop\.Net-master\L1\Education\Education\bin\Release\netcoreapp1.1\Project1.deps.json
+C:\Users\kasperok\Desktop\.Net-master\L1\Education\Education\bin\Release\netcoreapp1.1\Project1.runtimeconfig.json
+C:\Users\kasperok\Desktop\.Net-master\L1\Education\Education\bin\Release\netcoreapp1.1\Project1.runtimeconfig.dev.json
+C:\Users\kasperok\Desktop\.Net-master\L1\Education\Education\bin\Release\netcoreapp1.1\Project1.dll
+C:\Users\kasperok\Desktop\.Net-master\L1\Education\Education\bin\Release\netcoreapp1.1\Project1.pdb
+C:\Users\kasperok\Desktop\.Net-master\L1\Education\Education\obj\Release\netcoreapp1.1\Project1.csprojResolveAssemblyReference.cache
+C:\Users\kasperok\Desktop\.Net-master\L1\Education\Education\obj\Release\netcoreapp1.1\Project1.csproj.CoreCompileInputs.cache
+C:\Users\kasperok\Desktop\.Net-master\L1\Education\Education\obj\Release\netcoreapp1.1\Project1.AssemblyInfo.cs
+C:\Users\kasperok\Desktop\.Net-master\L1\Education\Education\obj\Release\netcoreapp1.1\Project1.dll
+C:\Users\kasperok\Desktop\.Net-master\L1\Education\Education\obj\Release\netcoreapp1.1\Project1.pdb
